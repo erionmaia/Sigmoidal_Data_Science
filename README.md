@@ -20,4 +20,4 @@ Apesar da paixão, sempre tive um "Amor Platônico" pela área de TI, e após le
 ## Projetos:
 Veja os tutoriais publicados:
 
-* 
+* **Analisando os dados do Airbnb no Rio de Janeiro:** https://bit.ly/36qusfJ
