@@ -3,11 +3,11 @@
 </p>
 
 # Erion Maia
+<sub>*Estudante de Ciência de Dados*</sub>
 <sub>*Studying Data Science*</sub>
 
-As a experienced Data Scientist and Air Force pilot I combine analytical skills, ability to work in team environments, and attention to details. Having spend the last years applying Machine Learning to Brazilian Air Force real problems, I developed a critical thinking and problem-solving skills.
-
-My credentials include a Master's in Space Science and Technology from the Aeronautics Institute of Technology (ITA), an institution of higher education and advanced research rated as one of the top and most prestigious engineering schools in Brazil, and a MBA in Project and Process Management from the University of Air Force (UNIFA).
+Bacharel em Direito e Pós-graduado pela Universidade Federal do Tocantins - UFT, Advogado, sou um apaixonado pelo Direito e pelo mundo jurídico. Advogando há quase 10 (dez) anos, tenho larga experiência na advocacia, em especial na área de Direito do Consumidor, chegando a assumir a Vice-Presidência da Comissão de Direito do Consumidor da OAB/TO em 2016.
+Apesar da paixão, sempre tive um "Amor Platônico" pela área de TI, e após ler alguns artigos e estudar algumas linhas de comando no Python, virei um amante da Ciência de Dados, e hoje sou um estudante de Ciência de Dados pela Universidade Cruzeiro do Sul e pela Escola Sigmoidal.
 
 **Background in:** Python and Machine Learning.
 
