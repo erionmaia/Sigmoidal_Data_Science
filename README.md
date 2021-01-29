@@ -12,7 +12,7 @@ Apesar da paixão, sempre tive um "Amor Platônico" pela área de TI, e após le
 **Background in:** Python and Machine Learning.
 
 **Links:**
-* [Blog](http://sigmoidal.ai)
+* [Blog](https://erionmaia.wordpress.com)
 * [LinkedIn](https://www.linkedin.com/in/erion-schlenger-de-paiva-maia-b133a63b/)
 * [Medium](https://medium.com/@erionmaia)
 
