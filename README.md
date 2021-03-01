@@ -21,4 +21,4 @@ Apesar da paixão, sempre tive um "Amor Platônico" pela área de TI, e após le
 Veja os tutoriais publicados:
 
 * **Analisando os dados do Airbnb no Rio de Janeiro:** https://bit.ly/36qusfJ
-* **Desafio Kaggle - TITANIC:** https://bit.ly/3uGFM1Z
+* **Desafio Kaggle - TITANIC:** https://bit.ly/3sCvGxe
